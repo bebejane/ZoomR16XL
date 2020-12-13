@@ -26,11 +26,14 @@ ALT+JOG = Zoom view
 * Download latest release from here
 * Unzip content into a folder called ZoomR16XL
 
-Move ZoomR16XL folder to:
+Move ZoomR16XL folder to
 
 <b>Windows</b>
+<br/>
 \ProgramData\Ableton\Live x.x\Resources\MIDI Remote Scripts\
+<br/>
 (This folder is hidden by default)
 
 <b>macOS</b>
+<br/>
 The Remote Script folder is inside the Ableton Live application bundle. Locate the Live application in Finder, right click on it and select "Show Package Content". Then navigate to: /Contents/App-Resources/MIDI Remote Scripts/
