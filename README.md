@@ -29,8 +29,9 @@ ALT+JOG = Zoom view
 Move ZoomR16XL folder to:
 
 ### Windows
-\ProgramData\Ableton\Live x.x\Resources\MIDI Remote Scripts\<br/>
-This folder is hidden by default.<br/>
+\ProgramData\Ableton\Live x.x\Resources\MIDI Remote Scripts\
+<br/>
+This folder is hidden by default.
 
 ### macOS
 <br/>
