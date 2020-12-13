@@ -2,9 +2,10 @@
 Improved Zoom R16 control surface script for Ableton live 9 and 10. 
 
 ## Features
-* Browse between banks of 8 tracks with the BANK buttons on the Zoom R16
-* ALT key with alternate functions
+* Browse between banks of 8 tracks each with the BANK buttons
+* ALT key for more more key combinations
 * ALT key shows monitor status for each channel
+* Transport: Play, Stop, Ffw, Rwd, Rec
 
 ## Key shortcuts
 <p>
@@ -25,6 +26,7 @@ ALT+UP = Zoom view up<br/>
 ALT+DOWN = Zoom view down<br/>
 ALT+RIGHT = Zoom view right<br/>
 ALT+JOG = Zoom view
+ALT+PLAY = Continue play from position
 </p>
 
 ## How to Install
