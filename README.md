@@ -1,5 +1,5 @@
 # Zoom R16 Ableton Control Surface
-Improved Zoom R16 control surface script
+Improved Zoom R16 control surface script for Ableton live 9 and 10. You can move between banks of 8 tracks with the BANK buttons on the Zoom.
 
 ## Key shortcuts
 <p>
@@ -28,11 +28,9 @@ ALT+JOG = Zoom view
 
 Move ZoomR16XL folder to:
 
-### Windows
+<b>Windows</b>
 \ProgramData\Ableton\Live x.x\Resources\MIDI Remote Scripts\
-<br/>
-This folder is hidden by default.
+(This folder is hidden by default)
 
-### macOS
-<br/>
+<b>macOS</b>
 The Remote Script folder is inside the Ableton Live application bundle. Locate the Live application in Finder, right click on it and select "Show Package Content". Then navigate to: /Contents/App-Resources/MIDI Remote Scripts/
