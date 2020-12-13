@@ -14,8 +14,8 @@ F3 = Jump back 4 bars<br/>
 F4 = Jump forward 4 bars<br/>
 F5 = Toggle between session and arranger view
 
-ALT+FADER = Pan channel
-ALT+CHANNEL = Toggle monitor mode between IN an OFF for channel
+ALT+FADER = Pan channel<br/>
+ALT+CHANNEL = Toggle monitor mode between IN an OFF for channel<br/>
 ALT+F2 = Toggle follow<br/>
 ALT+F3 = Contract loop 1 bar<br/>
 ALT+F4 = Expand loop 1 bar<br/>
