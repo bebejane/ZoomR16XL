@@ -42,7 +42,6 @@ class ZoomR16Strip:
         self.song().view.remove_selected_track_listener(self.__update_track_is_selected_led)
 
     def handle_channel_strip_switch_ids(self, sw_id, value):
-        log('strip ' + str(sw_id) + ' ' + str(value) + ' ALT:' + str(self.is_alt_pressed()) + ' ' + str(self.__channel_offset))
         if self.is_alt_pressed():
             if sw_id in range(SID_RECORD_ARM_BASE, SID_RECORD_ARM_BASE + NUM_CHANNEL_STRIPS) and sw_id - SID_RECORD_ARM_BASE is self.__channel_offset:
                 self.__toggle_monitor_track()

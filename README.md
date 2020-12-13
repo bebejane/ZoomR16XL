@@ -1,16 +1,21 @@
 # Zoom R16 Ableton Control Surface
-Improved Zoom R16 control surface script for Ableton live 9 and 10. You can move between banks of 8 tracks with the BANK buttons on the Zoom.
+Improved Zoom R16 control surface script for Ableton live 9 and 10. 
+
+## Features
+* Browse between banks of 8 tracks with the BANK buttons on the Zoom R16
+* ALT key with alternate functions.
+* ALT key shows monitor status for each channel
 
 ## Key shortcuts
 <p>
-F1 = ALT key<br/>
+F1 = ALT<br/>
 F2 = Set loop in and out<br/>
 F3 = Jump back 4 bars<br/>
 F4 = Jump forward 4 bars<br/>
 F5 = Toggle between session and arranger view
-</p>
-<p>
-ALT = Shows monitor status on each channel<br/>
+
+ALT+FADER = Pan channel
+ALT+CHANNEL = Toggle monitor mode between IN an OFF for channel
 ALT+F2 = Toggle follow<br/>
 ALT+F3 = Contract loop 1 bar<br/>
 ALT+F4 = Expand loop 1 bar<br/>

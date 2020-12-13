@@ -116,10 +116,10 @@ class ZoomR16XL:
             return
 
         if cc == SID_SOFTWARE_F2:
-            #if not self.__alt_pressed:
+            if not self.__alt_pressed:
                 self.__toggle_loop()
-            #else:
-             #   self.song().view.follow_song = not self.song().view.follow_song
+            else:
+                self.song().view.follow_song = not self.song().view.follow_song
 
         elif cc == SID_SOFTWARE_F3:
             if not self.__alt_pressed:
@@ -143,9 +143,7 @@ class ZoomR16XL:
             self.__groups[x].set_alt_pressed(pressed)
         self.__transport.set_alt_pressed(pressed)
         self.__master_strip.set_alt_pressed(pressed) 
-        log('ALT PRESSED: ' + str(pressed))
-        if pressed == True:
-            self.run_startup_animation()
+        #log('ALT PRESSED: ' + str(pressed))
 
     def is_alt_pressed(self):
         return self.__alt_pressed
