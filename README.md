@@ -44,4 +44,4 @@ Move ZoomR16XL folder to
 <br/>
 The Remote Script folder is inside the Ableton Live application bundle. Locate the Live application in Finder, right click on it and select "Show Package Content". Then navigate to: /Contents/App-Resources/MIDI Remote Scripts/
 
-Start Ableton Live and go into settings and select ZoomR16XL as control surface and that should be it
+Start Ableton Live and go into settings and select ZoomR16XL as control surface and that should be it. Let me know if you want other functionality added.
