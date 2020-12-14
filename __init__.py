@@ -1,3 +1,8 @@
+# Zoom R16 Control Surface script
+# Version 1.0.0
+# Author: Bebe Jane
+# https://github.com/bebejane/ZoomR16XL
+
 from log import *
 from ZoomR16XL import ZoomR16XL
 from consts import *

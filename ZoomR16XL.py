@@ -370,10 +370,6 @@ class ZoomR16XL:
             self.song().loop_length = self.__loop_length
             self.song().loop = True
             self.song().current_song_time = self.__loop_start
-            log('Set loop in: ' + str(beat) + str())
-            #if  self.song().current_song_time > self.beat_to_time(beat):
-            #    self.song().current_song_time = self.__loop_start
-            #    log('CORR ' + str(self.beat_to_time(beat)) + ' > ' +  str(self.beat_to_time(self.song().get_current_beats_song_time())) + ' ' + str(self.song().current_song_time))            
             
         elif self.__loop_start is not None and self.__loop_end is not None:
             self.song().loop = False

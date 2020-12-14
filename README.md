@@ -3,7 +3,7 @@ Improved Zoom R16 control surface script for Ableton live 9 and 10.
 
 ## Features
 * Browse between banks of 8 tracks each with the BANK buttons
-* ALT key for more more key combinations
+* ALT key for more key combinations with F2-F5
 * ALT key shows monitor status for each channel
 * Transport: Play, Stop, Ffw, Rwd, Rec
 
@@ -44,4 +44,4 @@ Move ZoomR16XL folder to
 <br/>
 The Remote Script folder is inside the Ableton Live application bundle. Locate the Live application in Finder, right click on it and select "Show Package Content". Then navigate to: /Contents/App-Resources/MIDI Remote Scripts/
 
-Start Ableton Live and go into settings and select ZoomR16XL as control surface and that should be it!
+Start Ableton Live and go into settings and select ZoomR16XL as control surface and that should be it
